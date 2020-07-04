@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPZ_CHAT_KOVALENKO", "IPZ_CHAT_KOVALENKO\IPZ_CHAT_KOVALENKO.csproj", "{0EA71AC5-1526-4333-BCF9-89DD6569EF13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EA71AC5-1526-4333-BCF9-89DD6569EF13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EA71AC5-1526-4333-BCF9-89DD6569EF13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EA71AC5-1526-4333-BCF9-89DD6569EF13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EA71AC5-1526-4333-BCF9-89DD6569EF13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C96CD5B-0F1F-4581-85D7-BC74F02837C2}
+	EndGlobalSection
+EndGlobal

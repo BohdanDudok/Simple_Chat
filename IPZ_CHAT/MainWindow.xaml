@@ -1,0 +1,21 @@
+﻿<Window x:Class="IPZ_CHAT_KOVALENKO.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:IPZ_CHAT_KOVALENKO"
+        mc:Ignorable="d"
+        Title="Sarafan" Height="450" Width="800" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid Background="#FFCBCBCB">
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="75" VerticalAlignment="Top" Width="792" Background="#FFBBBBBB"/>
+        <Label Content="Sarafan" HorizontalAlignment="Left" Height="62" Margin="26,0,0,0" VerticalAlignment="Top" Width="198" FontSize="48" Foreground="#FF5D5D5D"/>
+        <Label Content="Вхід" HorizontalAlignment="Left"  Margin="354,80,0,0" VerticalAlignment="Top" FontSize="40"/>
+        <TextBox x:Name="userlogin" HorizontalAlignment="Left" MaxLength="10" Height="43" Margin="308,148,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="182" FontSize="25"/>
+        <PasswordBox x:Name="userpass" HorizontalAlignment="Left" MaxLength="8" Height="45" Margin="308,216,0,0" VerticalAlignment="Top" Width="182" FontSize="25"/>
+        <Button x:Name="log_in" Content="Увійти" HorizontalAlignment="Left" Height="52" Margin="338,286,0,0" VerticalAlignment="Top" Width="118" FontSize="35" Click="log_in_Click"/>
+        <Button Content="Реєстрація" HorizontalAlignment="Left" Height="51" Margin="574,11,0,0" VerticalAlignment="Top" Width="185" FontSize="35" Click="Button_Click"/>
+        <Label Content="Логін" HorizontalAlignment="Left" Height="56" Margin="186,135,0,0" VerticalAlignment="Top" Width="96" FontSize="35" Foreground="#FF5D5D5D"/>
+        <Label Content="Пароль" HorizontalAlignment="Left" Height="56" Margin="152,205,0,0" VerticalAlignment="Top" Width="130" FontSize="35" Foreground="#FF5D5D5D"/>
+
+    </Grid>
+</Window>

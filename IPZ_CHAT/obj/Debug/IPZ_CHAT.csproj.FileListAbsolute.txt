@@ -1,0 +1,59 @@
+C:\Users\bodia\source\repos\IPZ_CHAT_KOVALENKO\IPZ_CHAT_KOVALENKO\bin\Debug\IPZ_CHAT_KOVALENKO.exe.config
+C:\Users\bodia\source\repos\IPZ_CHAT_KOVALENKO\IPZ_CHAT_KOVALENKO\bin\Debug\IPZ_CHAT_KOVALENKO.exe
+C:\Users\bodia\source\repos\IPZ_CHAT_KOVALENKO\IPZ_CHAT_KOVALENKO\bin\Debug\IPZ_CHAT_KOVALENKO.pdb
+C:\Users\bodia\source\repos\IPZ_CHAT_KOVALENKO\IPZ_CHAT_KOVALENKO\obj\Debug\IPZ_CHAT_KOVALENKO.csprojAssemblyReference.cache
+C:\Users\bodia\source\repos\IPZ_CHAT_KOVALENKO\IPZ_CHAT_KOVALENKO\obj\Debug\MainWindow.g.cs
+C:\Users\bodia\source\repos\IPZ_CHAT_KOVALENKO\IPZ_CHAT_KOVALENKO\obj\Debug\App.g.cs
+C:\Users\bodia\source\repos\IPZ_CHAT_KOVALENKO\IPZ_CHAT_KOVALENKO\obj\Debug\IPZ_CHAT_KOVALENKO_MarkupCompile.cache
+C:\Users\bodia\source\repos\IPZ_CHAT_KOVALENKO\IPZ_CHAT_KOVALENKO\obj\Debug\IPZ_CHAT_KOVALENKO_MarkupCompile.lref
+C:\Users\bodia\source\repos\IPZ_CHAT_KOVALENKO\IPZ_CHAT_KOVALENKO\obj\Debug\MainWindow.baml
+C:\Users\bodia\source\repos\IPZ_CHAT_KOVALENKO\IPZ_CHAT_KOVALENKO\obj\Debug\IPZ_CHAT_KOVALENKO.g.resources
+C:\Users\bodia\source\repos\IPZ_CHAT_KOVALENKO\IPZ_CHAT_KOVALENKO\obj\Debug\IPZ_CHAT_KOVALENKO.Properties.Resources.resources
+C:\Users\bodia\source\repos\IPZ_CHAT_KOVALENKO\IPZ_CHAT_KOVALENKO\obj\Debug\IPZ_CHAT_KOVALENKO.csproj.GenerateResource.cache
+C:\Users\bodia\source\repos\IPZ_CHAT_KOVALENKO\IPZ_CHAT_KOVALENKO\obj\Debug\IPZ_CHAT_KOVALENKO.exe
+C:\Users\bodia\source\repos\IPZ_CHAT_KOVALENKO\IPZ_CHAT_KOVALENKO\obj\Debug\IPZ_CHAT_KOVALENKO.pdb
+C:\Users\bodia\source\repos\IPZ_CHAT_KOVALENKO\IPZ_CHAT_KOVALENKO\obj\Debug\registr.g.cs
+C:\Users\bodia\source\repos\IPZ_CHAT_KOVALENKO\IPZ_CHAT_KOVALENKO\obj\Debug\registr.baml
+C:\Users\bodia\source\repos\IPZ_CHAT_KOVALENKO\IPZ_CHAT_KOVALENKO\obj\Debug\chat.g.cs
+C:\Users\bodia\source\repos\IPZ_CHAT_KOVALENKO\IPZ_CHAT_KOVALENKO\obj\Debug\chat.baml
+C:\Users\yulii\OneDrive\Робочий стіл\IPZ_CHAT_KOVALENKO\IPZ_CHAT_KOVALENKO\bin\Debug\IPZ_CHAT_KOVALENKO.exe.config
+C:\Users\yulii\OneDrive\Робочий стіл\IPZ_CHAT_KOVALENKO\IPZ_CHAT_KOVALENKO\bin\Debug\IPZ_CHAT_KOVALENKO.exe
+C:\Users\yulii\OneDrive\Робочий стіл\IPZ_CHAT_KOVALENKO\IPZ_CHAT_KOVALENKO\bin\Debug\IPZ_CHAT_KOVALENKO.pdb
+C:\Users\yulii\OneDrive\Робочий стіл\IPZ_CHAT_KOVALENKO\IPZ_CHAT_KOVALENKO\obj\Debug\IPZ_CHAT_KOVALENKO.csprojAssemblyReference.cache
+C:\Users\yulii\OneDrive\Робочий стіл\IPZ_CHAT_KOVALENKO\IPZ_CHAT_KOVALENKO\obj\Debug\chat.g.cs
+C:\Users\yulii\OneDrive\Робочий стіл\IPZ_CHAT_KOVALENKO\IPZ_CHAT_KOVALENKO\obj\Debug\MainWindow.g.cs
+C:\Users\yulii\OneDrive\Робочий стіл\IPZ_CHAT_KOVALENKO\IPZ_CHAT_KOVALENKO\obj\Debug\registr.g.cs
+C:\Users\yulii\OneDrive\Робочий стіл\IPZ_CHAT_KOVALENKO\IPZ_CHAT_KOVALENKO\obj\Debug\App.g.cs
+C:\Users\yulii\OneDrive\Робочий стіл\IPZ_CHAT_KOVALENKO\IPZ_CHAT_KOVALENKO\obj\Debug\IPZ_CHAT_KOVALENKO_MarkupCompile.cache
+C:\Users\yulii\OneDrive\Робочий стіл\IPZ_CHAT_KOVALENKO\IPZ_CHAT_KOVALENKO\obj\Debug\IPZ_CHAT_KOVALENKO_MarkupCompile.lref
+C:\Users\yulii\OneDrive\Робочий стіл\IPZ_CHAT_KOVALENKO\IPZ_CHAT_KOVALENKO\obj\Debug\chat.baml
+C:\Users\yulii\OneDrive\Робочий стіл\IPZ_CHAT_KOVALENKO\IPZ_CHAT_KOVALENKO\obj\Debug\MainWindow.baml
+C:\Users\yulii\OneDrive\Робочий стіл\IPZ_CHAT_KOVALENKO\IPZ_CHAT_KOVALENKO\obj\Debug\registr.baml
+C:\Users\yulii\OneDrive\Робочий стіл\IPZ_CHAT_KOVALENKO\IPZ_CHAT_KOVALENKO\obj\Debug\IPZ_CHAT_KOVALENKO.g.resources
+C:\Users\yulii\OneDrive\Робочий стіл\IPZ_CHAT_KOVALENKO\IPZ_CHAT_KOVALENKO\obj\Debug\IPZ_CHAT_KOVALENKO.Properties.Resources.resources
+C:\Users\yulii\OneDrive\Робочий стіл\IPZ_CHAT_KOVALENKO\IPZ_CHAT_KOVALENKO\obj\Debug\IPZ_CHAT_KOVALENKO.csproj.GenerateResource.cache
+C:\Users\yulii\OneDrive\Робочий стіл\IPZ_CHAT_KOVALENKO\IPZ_CHAT_KOVALENKO\obj\Debug\IPZ_CHAT_KOVALENKO.csproj.CopyComplete
+C:\Users\yulii\OneDrive\Робочий стіл\IPZ_CHAT_KOVALENKO\IPZ_CHAT_KOVALENKO\obj\Debug\IPZ_CHAT_KOVALENKO.exe
+C:\Users\yulii\OneDrive\Робочий стіл\IPZ_CHAT_KOVALENKO\IPZ_CHAT_KOVALENKO\obj\Debug\IPZ_CHAT_KOVALENKO.pdb
+F:\IPZ_CHAT_KOVALENKO\IPZ_CHAT_KOVALENKO\bin\Debug\IPZ_CHAT_KOVALENKO.exe.config
+F:\IPZ_CHAT_KOVALENKO\IPZ_CHAT_KOVALENKO\bin\Debug\IPZ_CHAT_KOVALENKO.exe
+F:\IPZ_CHAT_KOVALENKO\IPZ_CHAT_KOVALENKO\bin\Debug\IPZ_CHAT_KOVALENKO.pdb
+F:\IPZ_CHAT_KOVALENKO\IPZ_CHAT_KOVALENKO\bin\Debug\Google.Protobuf.dll
+F:\IPZ_CHAT_KOVALENKO\IPZ_CHAT_KOVALENKO\bin\Debug\BouncyCastle.Crypto.dll
+F:\IPZ_CHAT_KOVALENKO\IPZ_CHAT_KOVALENKO\bin\Debug\Renci.SshNet.dll
+F:\IPZ_CHAT_KOVALENKO\IPZ_CHAT_KOVALENKO\obj\Debug\IPZ_CHAT_KOVALENKO.csprojAssemblyReference.cache
+F:\IPZ_CHAT_KOVALENKO\IPZ_CHAT_KOVALENKO\obj\Debug\chat.g.cs
+F:\IPZ_CHAT_KOVALENKO\IPZ_CHAT_KOVALENKO\obj\Debug\MainWindow.g.cs
+F:\IPZ_CHAT_KOVALENKO\IPZ_CHAT_KOVALENKO\obj\Debug\registr.g.cs
+F:\IPZ_CHAT_KOVALENKO\IPZ_CHAT_KOVALENKO\obj\Debug\App.g.cs
+F:\IPZ_CHAT_KOVALENKO\IPZ_CHAT_KOVALENKO\obj\Debug\IPZ_CHAT_KOVALENKO_MarkupCompile.cache
+F:\IPZ_CHAT_KOVALENKO\IPZ_CHAT_KOVALENKO\obj\Debug\IPZ_CHAT_KOVALENKO_MarkupCompile.lref
+F:\IPZ_CHAT_KOVALENKO\IPZ_CHAT_KOVALENKO\obj\Debug\chat.baml
+F:\IPZ_CHAT_KOVALENKO\IPZ_CHAT_KOVALENKO\obj\Debug\MainWindow.baml
+F:\IPZ_CHAT_KOVALENKO\IPZ_CHAT_KOVALENKO\obj\Debug\registr.baml
+F:\IPZ_CHAT_KOVALENKO\IPZ_CHAT_KOVALENKO\obj\Debug\IPZ_CHAT_KOVALENKO.g.resources
+F:\IPZ_CHAT_KOVALENKO\IPZ_CHAT_KOVALENKO\obj\Debug\IPZ_CHAT_KOVALENKO.Properties.Resources.resources
+F:\IPZ_CHAT_KOVALENKO\IPZ_CHAT_KOVALENKO\obj\Debug\IPZ_CHAT_KOVALENKO.csproj.GenerateResource.cache
+F:\IPZ_CHAT_KOVALENKO\IPZ_CHAT_KOVALENKO\obj\Debug\IPZ_CHAT_KOVALENKO.csproj.CopyComplete
+F:\IPZ_CHAT_KOVALENKO\IPZ_CHAT_KOVALENKO\obj\Debug\IPZ_CHAT_KOVALENKO.exe
+F:\IPZ_CHAT_KOVALENKO\IPZ_CHAT_KOVALENKO\obj\Debug\IPZ_CHAT_KOVALENKO.pdb
